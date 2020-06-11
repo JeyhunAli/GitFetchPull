@@ -1,1 +1,4 @@
-this is the new file inside the gitfetchpull folder 
+this is the new file inside the gitfetchpull folder
+
+differences between fetch and pull is fetch is start with fetch to local repo then merge to working copy 
+but pull directly pull it to the working copy but same time it fetch to the local repo as well 
