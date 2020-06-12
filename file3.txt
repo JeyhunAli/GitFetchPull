@@ -1,2 +1,7 @@
 this is the file number 3 created by 3rd user 
-3rd user made some mistakes so im trying to correct it in my local repo so later on i will deploy it master 
+3rd user made some 
+mistakes so im trying to correct it in my local repo
+ so later on i will deploy it master 
+
+fetch and pull is most famous comands in git almost same but there some diferences between them 
+
